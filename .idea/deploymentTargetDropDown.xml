@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="MainActivityTest">
+        <State />
+      </entry>
+      <entry key="MainActivityTest2">
+        <State />
+      </entry>
+      <entry key="MainActivityTest3">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\user\.android\avd\Medium_Phone_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-01-08T15:05:14.341241900Z" />
+        </State>
+      </entry>
+      <entry key="mainActivityTest()">
+        <State />
+      </entry>
+      <entry key="mainActivityTest() (1)">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
