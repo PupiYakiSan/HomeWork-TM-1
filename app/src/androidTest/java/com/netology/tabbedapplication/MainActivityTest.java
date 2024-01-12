@@ -11,6 +11,8 @@ import static androidx.test.espresso.matcher.ViewMatchers.withParent;
 import static androidx.test.espresso.matcher.ViewMatchers.withText;
 import static org.hamcrest.Matchers.allOf;
 
+import static java.lang.Thread.sleep;
+
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewParent;
